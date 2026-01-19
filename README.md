@@ -4,5 +4,6 @@
 </section>
 
 <section align="center">
-    <img src="https://skillicons.dev/icons?i=vue,nuxt,tailwind,bootstrap,javascript,typescript,laravel,express,mysql,postgresql,mongodb" />
+    <img src="https://skillicons.dev/icons?i=vue,nuxt,tailwind,bootstrap,javascript,typescript,laravel,express,mysql,postgresql,mongodb" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,figma" alt="Tools" />
 </section>
