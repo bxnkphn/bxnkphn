@@ -5,5 +5,4 @@
 
 <section align="center">
     <img src="https://skillicons.dev/icons?i=vue,nuxt,tailwind,bootstrap,javascript,typescript,php,laravel,nodejs,express,mysql,postgresql,mongodb" alt="Tech Stack" />
-    <img src="https://skillicons.dev/icons?i=vscode,figma,blender,vite,git,github,docker,postman,windows,linux" alt="Tools" />
 </section>
