@@ -4,5 +4,5 @@
 </section>
 
 <section align="center">
-    <img src="https://skillicons.dev/icons?i=vue,nuxt,tailwind,bootstrap,javascript,typescript,php,nodejs" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=vue,nuxt,tailwind,bootstrap,javascript,typescript,php,nodejs,mysql,mongodb" alt="Tech Stack" />
 </section>
